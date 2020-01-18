@@ -1,2 +1,3 @@
 # Substitution-Cipher
-Built using Java
+Encrypt or decrypt a message using a substitution cipher!
+
